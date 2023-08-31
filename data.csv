@@ -1,9 +1,2 @@
 Group,Title,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
-a,	ABATTA_PCO37,"","ABATTA","Abatta, Bingerville", Abidjan, Côte d’Ivoire",5.328277,-3.91587,"Abatta, Bingerville, Abidjan, Côte d’Ivoire","",	""
-a,	ABATTA_PCO38,"","ABATTA","Abatta, Bingerville", Abidjan, Côte d’Ivoire",5.328919,	-3.91707,"Abatta, Bingerville, Abidjan, Côte d’Ivoire",	"",	""
-a,	ABATTA_PCO39,"","ABATTA","Abatta, Bingerville", Abidjan, Côte d’Ivoire"	,5.328229,	-3.91696,"Abatta, Bingerville, Abidjan, Côte d’Ivoire"	,"",""
-a,	ABATTA_PCO40,"","ABATTA","Abatta, Bingerville", Abidjan, Côte d’Ivoire",	5.335932,	-3.95245	,	"Abatta, Bingerville, Abidjan, Côte d’Ivoire","",	""
-b,	RIVIERA4_PCO11,"","RIVIERA 4","Rue E42,"Riviera 4, Riviéra 4, Cocody, Abidjan, Côte d’Ivoire",	5.359005,	-3.95375,"Rue E42, Riviera 4, Riviéra 4, Cocody, Abidjan, Côte d’Ivoire","",	""
-b,	RIVIERA4_PCO12,"","RIVIERA 4 non loin SRO",	"Riviera 3, Riviéra 3, Cocody, Abidjan, Côte d’Ivoire",	5.338613,	-3.96082	,	"Riviera 3, Riviéra 3, Cocody, Abidjan, Côte d’Ivoire","",	""
-b,	RIVIERA4_PCO13,"","RIVIERA 4","Riviera 4", "Riviéra 4", Cocody, Abidjan, Côte d’Ivoire",	5.335625,	-3.95757,"Riviera 4, Riviéra 4, Cocody, Abidjan, Côte d’Ivoire","",	""
-b,	RIVIERA4_PCO14,"","En face de la Residence LIMANIYA","Rue E75, Riviera 4, Riviéra 4, Cocody, Abidjan, Côte d’Ivoire",5.341514,	-3.95648,"Rue E75, Riviera 4, Riviéra 4, Cocody, Abidjan, Côte d’Ivoire","",""
+a,ABATTA_PCO37,"","ABATTA","Abatta, Bingerville, Abidjan, Côte d’Ivoire",5.328277,-3.91587,"Abatta, Bingerville, Abidjan, Côte d’Ivoire","",	""
